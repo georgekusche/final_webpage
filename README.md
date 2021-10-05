@@ -1,1 +1,34 @@
-# final_webpage
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>George Kusche</h1>
+<p>STA 587.</p>
+
+</body>
+  I am a MS Statistics student at Northern Arizona University. I am also on the track and cross-country team. Click on these links to see some rules I live by, as well as a link to Google: 
+
+
+
+<a href="http://google.com"> google </a>
+<br>
+<a href="rules.txt"> rules </a>
+
+
+Some of my hobbies:
+
+<UL>
+<LI>
+One: Chess
+</LI>
+
+<LI>
+Two: Piano
+</LI>
+</UL>
+
+<img src="hardloop_foto.jpeg" />
+
+<p>
+
+Inline formula \(\int_a^bx^2 dx \). Displayed formula: \[ \sum_{i=1}^\infty\frac{1}{n}=\infty \]
