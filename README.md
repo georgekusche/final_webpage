@@ -8,6 +8,9 @@
 </body>
   I am a MS Statistics student at Northern Arizona University. I am also on the track and cross-country team. Click on these links to see some rules I live by, as well as a link to Google: 
 
+  <script type="text/javascript" async
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 
 <a href="http://google.com"> google </a>
