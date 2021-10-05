@@ -30,7 +30,7 @@ Two: Piano
 </LI>
 </UL>
 
-<img src="hardloop_foto.jpeg" />
+<img src="https://github.com/georgekusche/final_webpage/blob/main/hardloop_foto.jpg" />
 
 <p>
 
